@@ -17,7 +17,7 @@ public class movieDatabase {
 
     static final String DBAddress = "jdbc:mysql://localhost:3306/moviedatabase?useTimezone=true&serverTimezone=GMT";
     static final String user = "root";
-    static final String pass = "glassugrör21";
+    static final String pass = "******";
 
 
     public static void main(String[] args) {
